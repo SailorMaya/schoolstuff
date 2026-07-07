@@ -1,0 +1,27 @@
+{
+  "version": "2.6.2",
+  "summary": {
+    "title": "SQL inection webserver threat model",
+    "owner": "Maya",
+    "description": "Webserver made in python with the vulnerability of SQL injection programmed in. ",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "STRIDE DIAGRAM",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Diagram for stride"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Maya",
+    "threatTop": 0
+  }
+}
